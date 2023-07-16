@@ -4,7 +4,7 @@ import Logo from '@/components/logo/logo'
 
 export default function Navbar() {
     return (
-        <nav classname={styles.navbar}>
+        <nav className={styles.navbar}>
             <Logo />
             <input />
             <BsCart4 size={40} />
